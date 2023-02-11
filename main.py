@@ -46,7 +46,7 @@ class Warrior(Character):
 
 class Mage(Character):
     BRIEF_DESC_CHAR_CLASS = (
-        f" находчивый воин дальнего боя. Обладает высоким интеллектом."
+        " находчивый воин дальнего боя. " "Обладает высоким интеллектом"
     )
     RANGE_VALUE_ATTACK = (5, 10)
     RANGE_VALUE_DEFENCE = (-2, 2)
