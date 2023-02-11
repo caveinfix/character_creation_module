@@ -22,7 +22,8 @@
 ```bash
    python main.py
 ```
+## Превью
+![Превью](https://i.paste.pics/99b6d8c19b75fe78c78aff9518faec93.png)
 
 ## Автор
-
 [Пыхонин Филипп](https://github.com/caveinfix/)

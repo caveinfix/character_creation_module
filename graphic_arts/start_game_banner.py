@@ -21,7 +21,7 @@ def animation(screen):
               transparent=False,
               ),
         Print(screen,
-              FigletText("Real Practic Game", "banner"),
+              FigletText("The Best Game", "banner"),
               screen.height - 15,
               colour=Screen.COLOUR_WHITE,
               bg=Screen.COLOUR_WHITE,
