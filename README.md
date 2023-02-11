@@ -6,18 +6,19 @@
 
 
 ## Установка
+Скопируйте репозиторий локально:
 ```bash
   git clone git@github.com:caveinfix/character_creation_module.git
 ```
 
-Установить виртуальное окружение и зависимости:
+Далее установливаем виртуальное окружение и зависимости:
 ```bash
   python3 -m venv venv
   source venv/bin/activate
   pip install -r requirements.txt
 ```
 
-Запустить игру:
+Запустить игру командой:
 ```bash
    python main.py
 ```
